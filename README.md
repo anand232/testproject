@@ -1,2 +1,2 @@
-some texty
+some text
 
